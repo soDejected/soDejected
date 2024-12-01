@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @soDejected
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning c++,lua,sql
+- 🌱 I’m currently learning c++,lua,GDscript
